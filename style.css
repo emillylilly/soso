@@ -14,7 +14,8 @@ body {
     justify-content: center; 
     min-height: 100vh;      
     margin: 0;
-    text-align: center;     
+    text-align: center;    
+    background-color: #B3EBF2; 
 }
 
 h1{
@@ -25,7 +26,7 @@ h1{
 }
 
 .pergunta{
-    background-color: bisque;
+    background-color: lightblue;
     border-radius: 10%;
     height: 300px;
     width: 25%;
